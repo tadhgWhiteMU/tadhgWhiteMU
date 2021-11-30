@@ -1,0 +1,23 @@
+- Hi, I'm Tadhg! :wave: :smile:
+- I'm a 3rd Year Computer Science student at Maynooth University.
+- As part of my course, I'm learning:
+  - the C# programming language, as part of Software Design.
+  - the Dafny programming language, as part of Software Verification.
+  - the Firebase platform and React frontend framework, as part of a group project
+- Also learning Elixir, Rust, Clojure, and Go in my own time.
+- I like:
+  - building web apps and sites with Svelte and TailwindCSS.
+  - solving random problems with Python (world's most overpowered calculator!)
+  - trying my hand at game design and development with Godot.
+- Familiar with:
+  - Java
+  - JavaScript/TypeScript
+  - NodeJS
+  - HTML/CSS
+- I'd like to learn about:
+  - C and C++
+  - Lisps
+  - Ocaml
+  - WebAsemmbly
+  - Language/Compiler Design
+  - Natural Language Processing
